@@ -1,0 +1,8 @@
+﻿  Building 'Driver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Source.cpp
+  Driver1.vcxproj -> C:\Users\Lenovo\Desktop\Labs\ОСиСП\Driver\Driver1\x64\Release\Driver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Lenovo\Desktop\Labs\\Driver\Driver1\x64\Release\Driver1.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

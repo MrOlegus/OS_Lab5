@@ -1,0 +1,12 @@
+﻿  Building 'Driver2' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (RLogger.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  DispatchProcedures.cpp
+  NotifyRoutines.cpp
+  Source.cpp
+  Создание кода...
+  Driver2.vcxproj -> C:\Users\Lenovo\Desktop\Labs\ОСиСП\Driver\Driver2\x64\Release\Driver2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Lenovo\Desktop\Labs\\Driver\Driver2\x64\Release\Driver2.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
